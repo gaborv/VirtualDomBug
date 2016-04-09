@@ -1,4 +1,4 @@
 # Input Bug
 Test app for ELM VirtualDOM issue around JavaScript properties
 
-For more details see 
+For more details see https://groups.google.com/forum/#!topic/elm-discuss/pIuIhGvrc-M
